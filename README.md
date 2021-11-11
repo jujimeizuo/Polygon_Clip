@@ -4,7 +4,7 @@
 
 <p align="center">
   <a> <img src="https://img.shields.io/badge/CMake-passing-brightgreen"> </a>
-  <a> <img src="https://img.shields.io/badge/license-GPL-green"> </a>
+  <a> <img src="https://img.shields.io/badge/license-GPL3.0-green"> </a>
 </p>
 
 # 1. 多边形裁剪简介
