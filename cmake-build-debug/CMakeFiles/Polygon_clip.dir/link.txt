@@ -1,0 +1,3 @@
+"D:\Software\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Polygon_clip.dir/objects.a
+D:\Environment\MinGWForCLion\mingw64\bin\ar.exe cr CMakeFiles\Polygon_clip.dir/objects.a @CMakeFiles\Polygon_clip.dir\objects1.rsp
+D:\Environment\MinGWForCLion\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Polygon_clip.dir/objects.a -Wl,--no-whole-archive -o bin\Polygon_clip.exe -Wl,--out-implib,libPolygon_clip.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Polygon_clip.dir\linklibs.rsp

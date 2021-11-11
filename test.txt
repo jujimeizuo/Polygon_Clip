@@ -1,0 +1,42 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<math.h>
+struct Point
+{
+
+int x,y;
+}Point[1991];
+double mul(Point Point1,Point Point2,Point Point3)
+{
+
+return (Point2.x-Point1.x)*(Point3.y-Point1.y)-(Point2.y-Point1.y)*(Point3.x-Point1.x);
+}
+double dis(Point a,Point b)
+{
+
+return sqrt((a.x-b.x)*(a.x-b.x)+(a.y-b.y)*(a.y-b.y));
+}
+int cmp(const void*a,const void*b)
+{
+
+    Point* c=(Point*)a;
+    Point* d=(Point*)b;
+if(mul(Point[0],*c,*d)==0)
+return dis(Point[0],*d)-dis(Point[0],*c);
+else return mul(Point[0],*d,*c)-mul(Point[0],*c,*d);
+}
+int main()
+{
+
+int i,n;
+while(scanf("%d",&n),n)
+    {
+
+for(i=0;i<n;i++)
+        scanf("%d%d",&Point[i].x,&Point[i].y);
+        qsort(Point+1,i-1,sizeof(Point[0]),cmPoint);
+for(i=0;i<n;i++)
+        Pointrintf("(%d,%d)\n",Point[i].x,Point[i].y);
+    }
+return 0;
+}

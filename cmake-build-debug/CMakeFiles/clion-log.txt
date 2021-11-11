@@ -1,0 +1,4 @@
+"D:\Software\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/Environment/MinGWForCLion/mingw64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=D:/Environment/MinGWForCLion/mingw64/bin/gcc.exe -DCMAKE_CXX_COMPILER=D:/Environment/MinGWForCLion/mingw64/bin/g++.exe -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" D:\Homework\Polygon_clip
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Homework/Polygon_clip/cmake-build-debug

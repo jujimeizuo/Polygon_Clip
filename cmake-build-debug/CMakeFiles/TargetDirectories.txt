@@ -1,0 +1,3 @@
+D:/Homework/Polygon_clip/cmake-build-debug/CMakeFiles/Polygon_clip.dir
+D:/Homework/Polygon_clip/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Homework/Polygon_clip/cmake-build-debug/CMakeFiles/rebuild_cache.dir

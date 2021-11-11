@@ -1,0 +1,1 @@
+  -LD:/Homework/Polygon_clip/lib/x64  -Wl,-Bstatic -lopengl32 -lfreeglut -Wl,-Bdynamic -lglu32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
