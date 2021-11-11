@@ -1,3 +1,13 @@
+<p align="center">
+	<strong> 基于Weiler-Atherton算法的Polygon_Clip </strong>
+</p>
+
+<p align="center">
+  <a> <img src="https://img.shields.io/badge/CMake-passing-brightgreen"> </a>
+  <a> <img src="https://img.shields.io/badge/PyQt5.0-success-brightgreen"> </a>
+  <a> <img src="https://img.shields.io/badge/baidu--api-passing-green"> </a>
+</p>
+
 # 1. 多边形裁剪简介
 
 
