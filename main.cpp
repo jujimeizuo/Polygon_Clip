@@ -1,6 +1,5 @@
 #include <GL/glut.h>
 #include <bits/stdc++.h>
-#include <iostream>
 
 using namespace std;
 
@@ -84,7 +83,7 @@ namespace GetLineCross {
     }
 }
 
-vector<polygon > Weiler_Atherton(polygon p, polygon q) {
+vector<polygon> Weiler_Atherton(polygon p, polygon q) {
 
     vector<Point> pv, qv; // 裁剪多边形顶点表和主多边形顶点表
     list<int> tempPv, tempQv; // 辅助链表
