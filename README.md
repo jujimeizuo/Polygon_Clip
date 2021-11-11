@@ -7,6 +7,8 @@
   <a> <img src="https://img.shields.io/badge/license-GPL3.0-green"> </a>
 </p>
 
+# 本代码使用 GPL 3.0 开源，请遵循 GPL 3.0 进行开发使用
+
 # 1. 多边形裁剪简介
 
 
