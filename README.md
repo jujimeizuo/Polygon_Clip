@@ -4,6 +4,7 @@
 
 <p align="center">
   <a> <img src="https://img.shields.io/badge/CMake-passing-brightgreen"> </a>
+  <a> <img src="https://img.shields.io/badge/OpenGL-passing-brightgreen"> </a>
   <a> <img src="https://img.shields.io/badge/license-GPL3.0-green"> </a>
 </p>
 
